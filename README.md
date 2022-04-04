@@ -24,9 +24,10 @@
 - Coroutines e suspend functions;
  
  ### Tecnologias :rocket:
-
+ 
  - Kotlin 
  - Android Studio
+ - Retrofit
  
  ### Funcionalidades 🛠
 
