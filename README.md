@@ -16,14 +16,16 @@
 
 
 ### Sobre :book:
- Aplicativo feito para por em prática consumo de API's utilizando RETROFIT / Coroutines e a arquitetura de projeto MVVM.
+ Aplicativo que consome a API pública [https://kanye.rest], e fornece ao usuário várias citações feitas pelo Kenye West.
+ 
+ ### Habilidades :star:
+- Requisição web com Retrofit;
+- Arquitetura MVVM;
+- Coroutines e suspend functions;
  
  ### Tecnologias :rocket:
 
  - Kotlin 
- - Retrofit
- - Coroutines
- - MVVM
  - Android Studio
  
  ### Funcionalidades 🛠
@@ -36,7 +38,7 @@
 ### Autor
 
 
-Feito com ❤️ por André Esperança!
+Feito por André Esperança!
 
 Contatos :
 [![Linkedin Badge](https://img.shields.io/badge/-André-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-esperan%C3%A7a-34021a235/)](https://www.linkedin.com/in/andr%C3%A9-esperan%C3%A7a-34021a235/) 
